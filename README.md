@@ -1,6 +1,6 @@
 # echo \<h1\> Hello {username}! 👋\</h1\>
 
-Hi there. I'm Sunil, a dedicated tech enthusiast and a passionate educator. Embracing the opportunity to guide my students in harnessing the power of technology, I find immense joy in witnessing them transform knowledge into impactful change. Here are a few mantras I live by:
+Hi there. I'm Sunil, a dedicated tech enthusiast and a passionate educator. Embracing the opportunity to guide my students in harnessing the power of technology, I find immense joy in witnessing them transform knowledge into impactful change. Here are a few principles I live by:
 
 - 🔭 Live your Passion
 - 🌱 Share what you learnt
